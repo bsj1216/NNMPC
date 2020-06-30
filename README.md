@@ -1,5 +1,5 @@
-# NNMPC_CARLA
-Intention-based NNMPC controller for CARLA simulator. NNMPC is a mathematical control framework based on Model Predictive Control (MPC) encompassing a state-of-the-art Recurrent Neural network (RNN) architecture. 
+# NNMPC
+Intention-based NNMPC controller for CARLA simulator. NNMPC is a mathematical control framework based on Model Predictive Control (MPC) encompassing a state-of-the-art Recurrent Neural network (RNN) architecture. (SCRIPTS TO BE PUBLISHED)
 
 ![demo](demo/demo.gif)
 
